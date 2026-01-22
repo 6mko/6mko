@@ -34,7 +34,6 @@ class Attributes(09bt):
 
 <p align="center">
  <img src="https://streak-stats.demolab.com?user=09bt&theme=dark"/>
-
 <p align="center">
  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=09bt&layout=compact&langs_count=8&theme=nightowl&locale=en"/>
 <p align="center">

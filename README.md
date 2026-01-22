@@ -19,7 +19,7 @@ class Attributes(09bt):
     @staticmethod
     def life() -> tuple:
         age = None
-        langs = ['French', 'English']
+        langs = ['Dutch', 'English']
         return langs, age
 
     @staticmethod

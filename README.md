@@ -45,7 +45,7 @@ class Attributes(09bt):
 ----- 
 Tools
 
-![](https://skillicons.dev/icons?i=py) (*Learning*)
+![](https://skillicons.dev/icons?i=cpp,cs,) (*Learning*)
 
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 

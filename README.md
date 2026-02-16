@@ -36,12 +36,14 @@ class Attributes(09bt):
 <p align="center">⭐My Stats</p>
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=6mko&theme=dark"/>
+  <img src="https://streak-stats.demolab.com?user=6mko&theme=dark"/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6mko&layout=compact&langs_count=8&theme=nightowl"/>
 </p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=6mko&theme=modern-lilac"/>
-<img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+</p>
+  <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+</p>
 
  
 ----- 

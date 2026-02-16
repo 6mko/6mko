@@ -1,6 +1,9 @@
 # Stopped skidding. Started learning
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1000&pause=1000&color=B627B3&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+i'm+5mko;A+little+professional+skidder"></a></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1000&pause=1000&color=B627B3&center=true&vCenter=true&width=800&lines=Hi,+I'm+5mko,+I'm+a+reverse+engineer+/+malware+analyst">
+</p>
+
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=6mko&theme=discord"</a></p>
 
@@ -24,7 +27,7 @@ class Attributes(09bt):
 
     @staticmethod
     def coding() -> tuple:
-        learning = "python"
+        learning = "C++"
         specialities = 'automation'
         environment = 'vscode'
         return learning, specialities, environment

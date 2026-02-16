@@ -1,8 +1,8 @@
 # Stopped skidding. Started learning
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1000&pause=1000&color=B627B3&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+i'm+09bt;A+little+professional+skidder"></a></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1000&pause=1000&color=B627B3&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+i'm+5mko;A+little+professional+skidder"></a></p>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=09bt&theme=discord"</a></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=6mko&theme=discord"</a></p>
 
 
 -----
@@ -33,11 +33,11 @@ class Attributes(09bt):
 <p align="center">⭐My Stats</p>
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=09bt&theme=dark"/>
+ <img src="https://streak-stats.demolab.com?user=6mko&theme=dark"/>
 <p align="center">
- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=09bt&layout=compact&langs_count=8&theme=nightowl&locale=en"/>
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=6mko&layout=compact&langs_count=8&theme=nightowl&locale=en"/>
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=09bt&theme=modern-lilac"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=6mko&theme=modern-lilac"/>
 <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 
  
@@ -51,7 +51,7 @@ Tools
 -----
 <p align="center"> 
   Visits:<br>
-  <img src="https://komarev.com/ghpvc/?username=09bt&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=6mko&style=for-the-badge"/>
 </p>
 
 
